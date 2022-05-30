@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP2
 {
-    //Coorporate
+    //Corporate
     //Inheritance
     class ProCustomer :Customer
     {
